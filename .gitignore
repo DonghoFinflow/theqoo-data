@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_example.txt
 
 # Spyder project settings
 .spyderproject
@@ -221,6 +222,7 @@ geckodriver.exe
 .env.staging
 secrets.json
 config.json
+env_example.txt
 
 # Model files
 *.pkl
