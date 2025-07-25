@@ -1,0 +1,17 @@
+# Perplexity API 키
+PERPLEXITY_API_KEY=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
+
+# Qdrant 설정
+QDRANT_URL=http://localhost:6333
+QDRANT_KEY=your_qdrant_api_key_here
+
+# OpenAI API 키 (필요시)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Naver API 키
+NAVER_CLIENT_ID=U7I8dhHT4ZgCyHCywxrC
+NAVER_CLIENT_SECRET=Q5zDaokgTc
+
+# 선택적 설정
+# QDRANT_URL=https://your-qdrant-instance.com:6333
+# QDRANT_KEY=your_qdrant_api_key_here 
